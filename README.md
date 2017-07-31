@@ -7,6 +7,7 @@
 ![alt text](https://github.com/murko007/Bank/blob/master/Debitor.PNG)
 
 3. У каждого дебитора может быть несколько кредитов 
+
 ![alt text](https://github.com/murko007/Bank/blob/master/Credit.PNG)
 
 4. По каждому кредиту есть возможность осуществлять платежи
